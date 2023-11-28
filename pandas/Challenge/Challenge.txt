@@ -7,6 +7,8 @@ Note that unlike in our heart disease dataset, 1 is positive and 0 is negative f
 
 I'd like for you to create 2 plots (can be line of best fits, bar graphs, or others) from this dataset that show some correlations between a factor in the dataset and the likelihood of a stroke- whether it be gender, age, marriage status, heart disease status, etc. 
 
+To see a more complete list of types you can create using matplotlib, visit: https://matplotlib.org/stable/plot_types/index.html
+
 I've included the dataset in this repository 'stroke.csv'. 
 
 You may submit a Jupyter notebook to me via email or you can fork this repository, make your changes locally using git, and open a pull request on this repo. Here is how to get started with git, if you are unfamiliar: https://phoenixnap.com/kb/how-to-use-git
