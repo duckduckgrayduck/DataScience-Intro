@@ -3,7 +3,7 @@
 This repository contains source code, PDFs, and Jupyter notebooks for a Python course held in Fall 2023. 
 The course primarily covered four topics:
 * web scraping (requests, BeautifulSoup, and Selenium)
-* automation
+* automation (automated emails, system monitoring, API usage, file management, desktop automation, scheduling, etc)
 * data science (numpy, pandas, matplotlib, seaborn)
 * machine learning (supervised & unsupervised learning, neural networks)
 
